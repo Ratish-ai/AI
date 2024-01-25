@@ -13,9 +13,8 @@ This repository contains Python implementations of various AI algorithms practic
       - Simple Linear Regression
       - Multiple Linear Regression
       - Polynomial Regression
-      - Support Vector Regression
-      - Regression Tree Regression
-      - Random Forest Regression
+      - Lasso Regression
+      - Ridge Regression
     - Classification
       - Logistic Regression
       - K Nearest Neighbour
@@ -34,6 +33,7 @@ This repository contains Python implementations of various AI algorithms practic
   - Reinforcement Learning
     - Upper Confidence Bound
     - Thompson Sampling
+    - Q - Learning
   - Model Selection and Boosting
     - K fold cross validation
     - Grid Search
@@ -46,7 +46,6 @@ This repository contains Python implementations of various AI algorithms practic
   - Boltzmann Machine
   - Auto Encoders
 - # Deep Reinforcement Learning
-  - Q Learning
   - Deep Q Learning
   - Deep Convolutional Q Learning
   - A3C
